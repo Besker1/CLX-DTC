@@ -1,0 +1,12 @@
+{
+  "name": "CLX-DTC-Challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CLX-DTC.js",
+  "scripts": {
+    "test": "node CLX-DTC.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
